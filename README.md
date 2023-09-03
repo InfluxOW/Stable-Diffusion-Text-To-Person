@@ -1,2 +1,2 @@
-# Stable-Diffusion-Text-To-Person
-How To Generate High Quality Real People in Stable Diffusion
+# WIP: Stable Diffusion: text-to-person
+How to Generate High Quality Real People in Stable Diffusion
