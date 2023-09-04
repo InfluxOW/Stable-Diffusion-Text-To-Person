@@ -14,12 +14,11 @@ In the end, our task boils down to several subtasks:
 
 ### CONTENT
 
-Due to the huge number of images I have splitted the guide into different pages so read it in the specified order.
+Due to the huge number of images the guide is divided into many pages. Please, read it in the specified order.
 
-1. [Examples](https://github.com/InfluxOW/Stable-Diffusion-Text-To-Person/wiki/Examples)
-
-2. [Dataset Preparation](https://github.com/InfluxOW/Stable-Diffusion-Text-To-Person/wiki/Dataset-Preparation)
-
-3. [Model Training ‐ Introduction](https://github.com/InfluxOW/Stable-Diffusion-Text-To-Person/wiki/Model-Training--%E2%80%90--Introduction)
-
-4. [Model Training ‐ Basics](https://github.com/InfluxOW/Stable-Diffusion-Text-To-Person/wiki/Model-Training--%E2%80%90--Basics)
+* [**Introduction**](../../wiki/Home)
+* [**Examples**](../../wiki/Examples)
+* [**Dataset Preparation**](../../wiki/Dataset-Preparation)
+* [**Model Training** ‐ Introduction](../../wiki/Model-Training--‐--Introduction)
+* [**Model Training** ‐ Basics](../../wiki/Model-Training--‐--Basics)
+* [**Model Training** ‐ Comparison - Introduction](../../wiki/Model-Training--‐--Comparison---‐--Introduction)
