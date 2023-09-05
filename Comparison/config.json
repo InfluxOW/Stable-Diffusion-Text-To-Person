@@ -63,7 +63,7 @@
   "optimizer": "DAdaptAdam",
   "optimizer_args": "decouple=True weight_decay=0.6 betas=0.9,0.99 use_bias_correction=True growth_rate=1.02",
   "output_dir": "<path to output dir>",
-  "output_name": "<lora file name>",
+  "output_name": "<LoRA file name>",
   "persistent_data_loader_workers": false,
   "pretrained_model_name_or_path": "<path to Realistic Vision 2.0 checkpoint>",
   "prior_loss_weight": 1.0,
