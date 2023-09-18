@@ -1,0 +1,11 @@
+photo\absolutereality_v181.safetensors
+photo\acornIsSpinning_diversityV5.safetensors
+photo\aZovyaPhotoreal_v2.safetensors
+photo\copaxRealistic_v3.safetensors
+photo\cyberrealistic_v33.safetensors
+photo\cyberrealistic_classicV17.safetensors
+photo\epicrealism_naturalSinRC1VAE.safetensors
+photo\htPhotorealismV417_v417SD15.safetensors
+photo\icbinpICantBelieveIts_seco.safetensors
+photo\photon_v1.safetensors
+photo\reliberate_v20.safetensors
