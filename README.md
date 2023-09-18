@@ -1,4 +1,4 @@
-# WIP: Stable Diffusion: text-to-person
+# Stable Diffusion: text-to-person
 
 > How to Generate High Quality Real People in Stable Diffusion
 
@@ -46,3 +46,5 @@ Due to the huge number of images the guide is divided into many pages. Please, r
 * [**Model Training** ‐ Comparison - Other Important and Useful Parameters](../../wiki/Model-Training--‐--Comparison---‐--Other-Important-and-Useful-Parameters)
 * [**Model Training** ‐ Comparison - Summary](../../wiki/Model-Training--‐--Comparison---‐--Summary)
 * [**Model Training** ‐ Comparison - Final](../../wiki/Model-Training--‐--Comparison---‐--Final)
+* [**Image Generation**](../../wiki/Image-Generation)
+* [**Useful Links**](../../wiki/Useful-Links)
