@@ -1,6 +1,7 @@
 # Stable Diffusion: text-to-person
 
 > How to Generate High Quality Real People in Stable Diffusion
+> And Useful Stable Diffusion Tips & Tricks
 
 ![Introduction.jpg](https://github.com/InfluxOW/Stable-Diffusion-Text-To-Person/blob/master/Images/Introduction.jpg)
 
@@ -48,3 +49,7 @@ Due to the huge number of images the guide is divided into many pages. Please, r
 * [**Model Training** ‐ Comparison - Final](../../wiki/Model-Training--‐--Comparison---‐--Final)
 * [**Image Generation**](../../wiki/Image-Generation)
 * [**Useful Links**](../../wiki/Useful-Links)
+
+---
+
+* [**Tips & Tricks** ‐ Learning Progression](../../wiki/Tips-&-Tricks--‐--Learning-Progression)
