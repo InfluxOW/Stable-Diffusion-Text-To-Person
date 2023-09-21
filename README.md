@@ -54,3 +54,6 @@ Due to the huge number of images the guide is divided into many pages. Please, r
 ---
 
 * [**Tips & Tricks** ‐ Learning Progression](../../wiki/Tips-&-Tricks--‐--Learning-Progression)
+* [**Tips & Tricks** ‐ Stylization](../../wiki/Tips-&-Tricks--‐--Stylization)
+* [**Tips & Tricks** ‐ Hidden Stamp](../../wiki/Tips-&-Tricks--‐--Hidden-Stamp)
+* [**Tips & Tricks** ‐ LoRA Settings](../../wiki/Tips-&-Tricks--‐--LoRA-Settings)
