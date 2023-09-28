@@ -1,7 +1,7 @@
 graphic\3dMixCharacter_v20Realism.safetensors
 graphic\28DSTABLEBESTVERSION_28dv5.safetensors
 graphic\animesh_PrunedV21.safetensors
-graphic\aniverse_THXEd14.safetensors
+graphic\aniverse_thxEd14Pruned.safetensors
 graphic\arthemyComics_v40.safetensors
 graphic\beautyfool_v15.safetensors
 graphic\caramelapple_v12.safetensors
@@ -16,7 +16,7 @@ graphic\dreamshaper_8.safetensors
 graphic\epicMixV4_v8.safetensors
 graphic\etherRealMix_etherRealMix31.safetensors
 graphic\fcanimemixFcAnime_v30.safetensors
-graphic\hello25dvintageanime_V20.safetensors
+graphic\hello25dvintageanime_V25.safetensors
 graphic\hellocartoonfilm_V20b.safetensors
 graphic\helloflatcolorful2d_V12.safetensors
 graphic\helloflatcute2d_V10.safetensors
