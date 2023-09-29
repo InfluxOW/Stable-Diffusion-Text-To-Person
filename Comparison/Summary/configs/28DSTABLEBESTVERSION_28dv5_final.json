@@ -67,7 +67,7 @@
     "output_dir": "<path to output dir>",
     "output_name": "<LoRA file name>",
     "persistent_data_loader_workers": false,
-    "pretrained_model_name_or_path": "<path to Realistic Vision 2.0 checkpoint>",
+    "pretrained_model_name_or_path": "<path to 28DSTABLEBESTVERSION_28dv5 checkpoint>",
     "prior_loss_weight": 1.0,
     "random_crop": false,
     "rank_dropout": 0,
