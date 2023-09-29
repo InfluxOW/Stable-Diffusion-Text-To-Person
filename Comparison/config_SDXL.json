@@ -75,7 +75,7 @@
   "resume": "",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
-  "sample_prompts": "masterpiece, best quality, (<instance prompt> <instance class>:1.2), green t-shirt, beach, ocean, upper body, looking at viewer --n low quality, worst quality, bad anatomy, bad composition, poor, low effort --w 768 --h 768 --l 3.5 --s 50 --d 1",
+  "sample_prompts": "masterpiece, best quality, (<instance prompt> <instance class>:1.2), green t-shirt, beach, ocean, upper body, looking at viewer --n low quality, worst quality, bad anatomy, bad composition, poor, low effort --w 1024 --h 1024 --l 3.5 --s 50 --d 1",
   "sample_sampler": "euler_a",
   "save_every_n_epochs": 1,
   "save_every_n_steps": 0,
