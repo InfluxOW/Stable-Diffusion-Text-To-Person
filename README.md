@@ -49,7 +49,6 @@ Due to the huge number of images the guide is divided into many pages. Please, r
 * [**Model Training** ‐ Comparison - Summary](../../wiki/Model-Training--‐--Comparison---‐--Summary)
 * [**Model Training** ‐ Comparison - Final](../../wiki/Model-Training--‐--Comparison---‐--Final)
 * [**Image Generation**](../../wiki/Image-Generation)
-* [**SDXL**](../../wiki/SDXL)
 * [**Useful Links**](../../wiki/Useful-Links)
 
 ---
