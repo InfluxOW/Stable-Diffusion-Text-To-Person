@@ -6,6 +6,7 @@
 - [cyberrealistic_classicV20](https://civitai.com/models/71185/cyberrealistic-classic)
 - [cyberrealistic_v33](https://civitai.com/models/15003/cyberrealistic)
 - [epicphotogasm_x](https://civitai.com/models/132632/epicphotogasm)
+- [epicrealism_pureEvolution](https://civitai.com/models/25694?modelVersionId=94744)
 - [epicrealism_naturalSinRC1VAE](https://civitai.com/models/25694/epicrealism)
 - [icbinpICantBelieveIts_seco](https://civitai.com/models/28059/icbinp-i-cant-believe-its-not-photography)
 - [insaneRealisticV10_v10](https://civitai.com/models/108585?modelVersionId=116883)

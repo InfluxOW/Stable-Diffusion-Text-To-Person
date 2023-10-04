@@ -6,6 +6,7 @@ photo\copaxRealistic_v3.safetensors
 photo\cyberrealistic_classicV20.safetensors
 photo\cyberrealistic_v33.safetensors
 photo\epicphotogasm_x.safetensors
+photo\epicrealism_pureEvolution.safetensors
 photo\epicrealism_naturalSinRC1VAE.safetensors
 photo\icbinpICantBelieveIts_seco.safetensors
 photo\insaneRealisticV10_v10.safetensors
