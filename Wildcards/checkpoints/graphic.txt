@@ -3,6 +3,7 @@ graphic\28DSTABLEBESTVERSION_28dv5.safetensors
 graphic\animesh_PrunedV21.safetensors
 graphic\aniverse_thxEd14Pruned.safetensors
 graphic\arthemyComics_v40.safetensors
+graphic\artUniverse_v80.safetensors
 graphic\beautyfool_v15.safetensors
 graphic\caramelapple_v12.safetensors
 graphic\colorful_v31.safetensors
@@ -13,15 +14,17 @@ graphic\copaxtimeless_copaxTimelessBright.safetensors
 graphic\curiousmerge25D_v50V4V2.safetensors
 graphic\disneyStyleV1_v10.safetensors
 graphic\dreamshaper_8.safetensors
-graphic\epicMixV4_v8.safetensors
+graphic\epicMixV4_v10.safetensors
 graphic\etherRealMix_etherRealMix31.safetensors
 graphic\fcanimemixFcAnime_v30.safetensors
 graphic\hello25dvintageanime_V25.safetensors
 graphic\hellocartoonfilm_V20b.safetensors
-graphic\helloflatcolorful2d_V12.safetensors
+graphic\helloflatcolorful2d_V15e.safetensors
 graphic\helloflatcute2d_V10.safetensors
 graphic\hellojplassie_V21.safetensors
 graphic\hellopopart25d_V13d.safetensors
+graphic\helloq3Q_helloq3V10c.safetensors
+graphic\helloyoung2d_V10h.safetensors
 graphic\jamJustAnotherMerge_v19BakedvaePruned.safetensors
 graphic\mistoonAnime_v20.safetensors
 graphic\mixtapeFunk_v30ProibidO.safetensors
@@ -34,6 +37,7 @@ graphic\realcartoonRealistic_v8.safetensors
 graphic\revAnimatedFp16_122NoVae.safetensors
 graphic\rundiffusionFX_v10.safetensors
 graphic\rundiffusionFX25D_v10.safetensors
+graphic\sweetMix_v22Flat.safetensors
 graphic\ultimateArt_v20.safetensors
 graphic\unstableDiffusers_unyieldingGrimoire.safetensors
 graphic\xenoengineAnArtStyle_v48.safetensors
