@@ -23,7 +23,7 @@ Due to the huge number of images the guide is divided into many pages. Please, r
 * [**Dataset Preparation**](../../wiki/Dataset-Preparation)
 * [**Model Training** ‐ Introduction](../../wiki/Model-Training--‐--Introduction)
 * [**Model Training** ‐ Basics](../../wiki/Model-Training--‐--Basics)
-* [**Model Training** ‐ Comparison - Introduction](../../wiki/Model-Training--‐--Comparison---‐--Introduction)
+* [**Model Training** ‐ Comparison - Introduction](../../wiki/Model-Training--‐--Comparison--‐--Introduction)
 * [**Model Training** ‐ Comparison - [Growth Rate]](../../wiki/Model-Training--‐--Comparison---‐--%5BGrowth-Rate%5D)
 * [**Model Training** ‐ Comparison - [Betas]](../../wiki/Model-Training--‐--Comparison---‐--%5BBetas%5D)
 * [**Model Training** ‐ Comparison - [Weight Decay]](../../wiki/Model-Training--‐--Comparison---‐--%5BWeight-Decay%5D)
