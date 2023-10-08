@@ -24,6 +24,17 @@ Due to the huge number of images the guide is divided into many pages. Please, r
 * [**Model Training** ‐ Introduction](../../wiki/Model-Training--‐--Introduction)
 * [**Model Training** ‐ Basics](../../wiki/Model-Training--‐--Basics)
 * [**Model Training** ‐ Comparison - Introduction](../../wiki/Model-Training--‐--Comparison--‐--Introduction)
+
+---
+
+> Short Way
+
+* [**Model Training** ‐ Comparison - Brief](../../wiki/Model-Training--‐--Comparison---‐--Brief)
+
+---
+
+> Long Way
+
 * [**Model Training** ‐ Comparison - [Growth Rate]](../../wiki/Model-Training--‐--Comparison---‐--%5BGrowth-Rate%5D)
 * [**Model Training** ‐ Comparison - [Betas]](../../wiki/Model-Training--‐--Comparison---‐--%5BBetas%5D)
 * [**Model Training** ‐ Comparison - [Weight Decay]](../../wiki/Model-Training--‐--Comparison---‐--%5BWeight-Decay%5D)
@@ -45,8 +56,9 @@ Due to the huge number of images the guide is divided into many pages. Please, r
 * [**Model Training** ‐ Comparison - [Checkpoint]](../../wiki/Model-Training--‐--Comparison---‐--%5BCheckpoint%5D)
 * [**Model Training** ‐ Comparison - [Regularisation]](../../wiki/Model-Training--‐--Comparison---‐--%5BRegularisation%5D)
 * [**Model Training** ‐ Comparison - [Optimizer]](../../wiki/Model-Training--‐--Comparison---‐--%5BOptimizer%5D)
-* [**Model Training** ‐ Comparison - Other Important and Useful Parameters](../../wiki/Model-Training--‐--Comparison---‐--Other-Important-and-Useful-Parameters)
-* [**Model Training** ‐ Comparison - Summary](../../wiki/Model-Training--‐--Comparison---‐--Summary)
+
+---
+
 * [**Model Training** ‐ Comparison - Final](../../wiki/Model-Training--‐--Comparison---‐--Final)
 * [**Image Generation**](../../wiki/Image-Generation)
 * [**Useful Links**](../../wiki/Useful-Links)
