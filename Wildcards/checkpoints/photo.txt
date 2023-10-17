@@ -14,5 +14,5 @@ photo\photon_v1.safetensors
 photo\realisticVisionV20_v20NoVAE.safetensors
 photo\realisticVisionV51_v51VAE.safetensors
 photo\reliberate_v20.safetensors
-photo\thisisreal_v40.safetensors
+photo\thisisreal_v50.safetensors
 photo\wafflemix_v6Waffleternal.safetensors

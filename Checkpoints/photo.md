@@ -14,5 +14,5 @@
 - [realisticVisionV20_v20NoVAE](https://civitai.com/models/4201?modelVersionId=29460)
 - [realisticVisionV51_v51VAE](https://civitai.com/models/4201/realistic-vision-v51)
 - [reliberate_v20](https://civitai.com/models/79754/reliberate)
-- [thisisreal_v40](https://civitai.com/models/93529/thisisreal)
+- [thisisreal_v50](https://civitai.com/models/93529/thisisreal)
 - [wafflemix_v6Waffleternal](https://civitai.com/models/82657/wafflemix)
